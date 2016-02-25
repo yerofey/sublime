@@ -22,7 +22,7 @@
                 <key>invisibles</key>
                 <string>#aaa</string>
                 <key>lineHighlight</key>
-                <string>#cfd7e6</string>
+                <string>#dae0ea</string>
                 <key>selection</key>
                 <string>#cfd7e6</string>
             </dict>
@@ -570,6 +570,6 @@
         </dict>
     </array>
     <key>uuid</key>
-    <string>231D6A91-5FD1-4CBE-BD2A-0F36C08693F1</string>
+    <string>ea1ed80b-9cec-40fb-afb4-d50cec7d9718</string>
 </dict>
 </plist>
