@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
     <key>author</key>
-    <string>Yerofey Smirnoff</string>
-    <key>comment</key>
-    <string>More at https://github.com/zutix/sublime</string>
-    <key>name</key>
     <string>Yerofey</string>
+    <key>comment</key>
+    <string>More at https://github.com/svencicky/sublime</string>
+    <key>name</key>
+    <string>LightBlue</string>
     <key>settings</key>
     <array>
         <dict>
